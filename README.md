@@ -74,7 +74,7 @@ The backend provides RESTful APIs for chat management and WebSocket connections 
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/krotrn/chat-backend.git
+    git clone https://github.com/zexus34/chat-backend.git
     cd chat-backend
     ```
 
@@ -132,7 +132,7 @@ The backend provides RESTful APIs for chat management and WebSocket connections 
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/krotrn/chat-backend.git
+    git clone https://github.com/zexus34/chat-backend.git
     cd chat-backend
     ```
 
@@ -475,7 +475,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE
 
 ## Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/krotrn/chat-backend/issues)
+- **Issues**: [GitHub Issues](https://github.com/zexus34/chat-backend/issues)
 - **Documentation**: See [API_DOC.md](./API_DOC.md) for detailed API reference
 - **Questions**: Open a discussion or issue on the GitHub repository
 
